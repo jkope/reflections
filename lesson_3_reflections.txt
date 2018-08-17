@@ -1,1 +1,3 @@
 use a remote when ever you can to prevent a single computer crash from wiping you out. Also you can collaborate or use multiple computers.
+
+manually pulling or pushing allows you to move a functional amount of code and not every commit
